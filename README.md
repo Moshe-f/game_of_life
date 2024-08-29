@@ -28,22 +28,29 @@ When running `custom_game.py`, you can modify the game rules.
 
 If no rule or an incorrect rule (B{number}/S{two numbers}) is provided, the game will run with the default B3/S23 rule that listed above.
 
+---
 
-### images:
-#### start of the game
+### Images:
+#### Start of the game
 
 <img src="images/empty board.png" alt="start of the game"/>
 
 
-#### game running(generation 150)
+#### Game in generation 150
 
-<img src="images/game.png" alt="game running(generation 150, live cells 103)"/>
+<img src="images/game.png" alt="game in generation 150, live cells 103"/>
 
 
-#### random game
+#### Random game
 
 <img src="images/random game.png" alt="random game"/>
 
+
+#### Game running
+
+<img src="images/game_running.gif" alt="game running"/>
+
+---
 
 uses the pygame library
 
